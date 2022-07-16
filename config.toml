@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+enableRobotsTXT = true
+baseURL = "/"
 languageCode = "en-us"
 title = "Suka Hugo"
